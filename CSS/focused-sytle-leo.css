@@ -1,0 +1,17 @@
+.column {
+    width: 300px;
+    float: left;
+    margin: 10px;
+}
+
+.focus {
+    color: darkmagenta;
+}
+.focus1 {
+    color: rgba(207, 102, 16, 0.822);
+}
+img{
+    width: 200px;
+    height: 100;
+    float: left;
+}
